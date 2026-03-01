@@ -6,7 +6,7 @@ ZIT(zhen Innovative Technology)
 室长：[@Iamliuxiaozhen](https://github.com/Iamliuxiaozhen)  
 我们是一群中学生，玩转各种计算机技术~
 ## 我们的项目
-![CoCo-Community](https://github-readme-stats.vercel.app/api/pin/?username=zitzhen&repo=CoCo-Community&theme=radical)
-![Chinese-law](https://github-readme-stats.vercel.app/api/pin/?username=zitzhen&repo=Chinese-law&theme=radical)
+![CoCo-Community](https://github-readme.zitzhen.cn/api/pin/?username=zitzhen&repo=CoCo-Community&theme=radical)
+![Chinese-law](https://github-readme.zitzhen.cn/api/pin/?username=zitzhen&repo=Chinese-law&theme=radical)
 ## 禁令
 禁止向外披露任何私有仓库的代码。
