@@ -1,8 +1,9 @@
-# 👋 欢迎来到 ZIT
-
-### Zhen Innovative Technology
-
-🚀 一群热爱技术的中学生开发者
+<div align="center">
+  <h1>👋 欢迎来到 ZIT</h1>
+  <h3>Zhen Innovative Technology</h3>
+  <p>🚀 一群热爱技术的中学生开发者</p>
+  <img src="./images/wlcome.png" alt="欢迎来到 ZIT Studio" width="100%">
+</div>
 
 我们专注于：
 
